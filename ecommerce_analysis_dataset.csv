@@ -1,0 +1,1216 @@
+Order_ID,Order_Date,Customer_ID,Product_Name,Category,Brand,Unit_Price_USD,Quantity,Payment_Method,Order_Status
+ORD-00001,2025-01-01 00:00,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00002,2025-01-01 12:45,CUST-1435,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00003,2025-01-02 01:30,CUST-1348,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Returned
+ORD-00004,2025-01-02 14:15,CUST-1270,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00005,2025-01-03 03:00,CUST-1106,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00006,2025-01-03 15:45,CUST-1071,Ergonomic Office Chair,,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00007,2025-01-04 04:30,CUST-1188,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00008,2025-01-04 17:15,CUST-1020,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00009,2025-01-05 06:00,CUST-1102,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00010,2025-01-05 18:45,CUST-1121,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Cancelled
+ORD-00011,2025-01-06 07:30,CUST-1466,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro Inc.,99.99,1,PayPal,Delivered
+ORD-00012,2025-01-06 20:15,CUST-1214,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00013,2025-01-07 09:00,CUST-1330,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00014,2025-01-07 21:45,CUST-1458,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00015,2025-01-08 10:30,CUST-1087,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00016,2025-01-08 23:15,CUST-1372,Running Shoes V2,Apparel,FitGear,1200.0,1,PayPal,Delivered
+ORD-00017,2025-01-09 12:00,CUST-1099,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00018,2025-01-10 00:45,CUST-1359,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00019,2025-01-10 13:30,CUST-1151,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00020,2025-01-11 02:15,CUST-1130,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00021,2025-01-11 15:00,CUST-1149,Classic Denim Jacket,Apparel,ThreadsCo,89.5,-1,Credit Card,Delivered
+ORD-00022,2025-01-12 03:45,CUST-1308,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00023,2025-01-12 16:30,CUST-1257,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00024,2025-01-13 05:15,CUST-1343,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Shipped
+ORD-00025,2025-01-13 18:00,CUST-1491,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Shipped
+ORD-00026,2025-01-14 06:45,CUST-1413,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00027,2025-01-14 19:30,CUST-1293,Running Shoes V2,Apparel,FitGear,120.0,3,Apple Pay,Delivered
+ORD-00028,2025-01-15 08:16,CUST-1385,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00029,2025-01-15 21:01,CUST-1191,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00030,2025-01-16 09:46,CUST-1443,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Shipped
+ORD-00031,2025-01-16 22:31,CUST-1276,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00032,2025-01-17 11:16,CUST-1160,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Cancelled
+ORD-00033,2025-01-18 00:01,CUST-1459,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Cancelled
+ORD-00034,2025-01-18 12:46,CUST-1313,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00035,2025-01-19 01:31,CUST-1021,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00036,2025-01-19 14:16,CUST-1252,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00037,2025-01-20 03:01,CUST-1235,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Shipped
+ORD-00038,2025-01-20 15:46,CUST-1344,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00039,2025-01-21 04:31,CUST-1048,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Shipped
+ORD-00040,2025-01-21 17:16,CUST-1474,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00041,2025-01-22 06:01,,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00042,2025-01-22 18:46,CUST-1169,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Shipped
+ORD-00043,2025-01-23 07:31,CUST-1475,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00044,2025-01-23 20:16,CUST-1187,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00045,2025-01-24 09:01,CUST-1463,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00046,2025-01-24 21:46,CUST-1270,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00047,2025-01-25 10:31,CUST-1189,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00048,2025-01-25 23:16,CUST-1445,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00049,2025-01-26 12:01,CUST-1174,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Cancelled
+ORD-00050,2025-01-27 00:46,CUST-1445,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,4,Credit Card,Shipped
+ORD-00051,2025-01-27 13:31,CUST-1050,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00052,2025-01-28 02:16,CUST-1363,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00053,2025-01-28 15:01,CUST-1054,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00054,2025-01-29 03:46,CUST-1243,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00055,2025-01-29 16:32,CUST-1319,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Credit Card,Returned
+ORD-00056,2025-01-30 05:17,CUST-1130,EcoPhone 15,,TechCorp,799.99,1,PayPal,Delivered
+ORD-00057,2025-01-30 18:02,CUST-1484,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00058,2025-01-31 06:47,CUST-1306,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00059,2025-01-31 19:32,CUST-1134,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00060,2025-02-01 08:17,CUST-1020,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00061,2025-02-01 21:02,CUST-1328,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00062,2025-02-02 09:47,CUST-1166,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00063,2025-02-02 22:32,CUST-1273,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00064,2025-02-03 11:17,CUST-1387,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,4,Credit Card,Delivered
+ORD-00065,2025-02-04 00:02,CUST-1088,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00066,2025-02-04 12:47,CUST-1315,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00067,2025-02-05 01:32,CUST-1013,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00068,2025-02-05 14:17,CUST-1241,SmartWatch Series X,Electronics,TechCorp,249.99,3,Apple Pay,Delivered
+ORD-00069,2025-02-06 03:02,CUST-1264,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00070,2025-02-06 15:47,CUST-1345,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Delivered
+ORD-00071,2025-02-07 04:32,CUST-1052,Classic Denim Jacket,Apparel,ThreadsCo Inc.,89.5,2,Credit Card,Delivered
+ORD-00072,2025-02-07 17:17,CUST-1385,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Cancelled
+ORD-00073,2025-02-08 06:02,CUST-1339,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Cancelled
+ORD-00074,2025-02-08 18:47,CUST-1091,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00075,2025-02-09 07:32,CUST-1366,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Shipped
+ORD-00076,2025-02-09 20:17,CUST-1443,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00077,2025-02-10 09:02,CUST-1454,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Delivered
+ORD-00078,2025-02-10 21:47,CUST-1427,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00079,2025-02-11 10:32,CUST-1263,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00080,2025-02-11 23:17,CUST-1430,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00081,2025-02-12 12:03,,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00082,2025-02-13 00:48,CUST-1205,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00083,2025-02-13 13:33,CUST-1080,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00084,2025-02-14 02:18,CUST-1419,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00085,2025-02-14 15:03,CUST-1049,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Cancelled
+ORD-00086,2025-02-15 03:48,CUST-1359,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00087,2025-02-15 16:33,CUST-1387,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00088,2025-02-16 05:18,CUST-1001,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00089,2025-02-16 18:03,CUST-1389,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-00090,2025-02-17 06:48,CUST-1053,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00091,2025-02-17 19:33,CUST-1105,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Delivered
+ORD-00092,2025-02-18 08:18,CUST-1259,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-00093,2025-02-18 21:03,CUST-1309,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00094,2025-02-19 09:48,CUST-1476,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00095,2025-02-19 22:33,CUST-1190,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00096,2025-02-20 11:18,CUST-1401,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00097,2025-02-21 00:03,CUST-1217,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00098,2025-02-21 12:48,CUST-1043,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00099,2025-02-22 01:33,CUST-1161,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00100,2025-02-22 14:18,CUST-1201,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Shipped
+ORD-00101,2025-02-23 03:03,CUST-1445,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Shipped
+ORD-00102,2025-02-23 15:48,CUST-1483,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Returned
+ORD-00103,2025-02-24 04:33,CUST-1269,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00104,2025-02-24 17:18,CUST-1350,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00105,2025-02-25 06:03,CUST-1303,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00106,2025-02-25 18:48,CUST-1270,Running Shoes V2,,FitGear,120.0,1,Credit Card,Delivered
+ORD-00107,2025-02-26 07:33,CUST-1455,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00108,2025-02-26 20:19,CUST-1461,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00109,2025-02-27 09:04,CUST-1214,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Shipped
+ORD-00110,2025-02-27 21:49,CUST-1251,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00111,2025-02-28 10:34,CUST-1189,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Shipped
+ORD-00112,2025-02-28 23:19,CUST-1295,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Apple Pay,Delivered
+ORD-00113,2025-03-01 12:04,CUST-1212,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00114,2025-03-02 00:49,CUST-1207,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,PayPal,Delivered
+ORD-00115,2025-03-02 13:34,CUST-1236,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00116,2025-03-03 02:19,CUST-1337,Organic Cotton Hoodie,Apparel,ThreadsCo,599.9,1,PayPal,Delivered
+ORD-00117,2025-03-03 15:04,CUST-1366,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00118,2025-03-04 03:49,CUST-1052,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00119,2025-03-04 16:34,CUST-1279,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00120,2025-03-05 05:19,CUST-1409,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Shipped
+ORD-00121,2025-03-05 18:04,,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00122,2025-03-06 06:49,CUST-1251,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-00123,2025-03-06 19:34,CUST-1187,Running Shoes V2,Apparel,FitGear,120.0,3,PayPal,Delivered
+ORD-00124,2025-03-07 08:19,CUST-1379,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00125,2025-03-07 21:04,CUST-1492,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00126,2025-03-08 09:49,CUST-1040,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00127,2025-03-08 22:34,CUST-1156,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00128,2025-03-09 11:19,CUST-1014,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00129,2025-03-10 00:04,CUST-1300,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00130,2025-03-10 12:49,CUST-1064,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00131,2025-03-11 01:34,CUST-1344,Hydrating Face Serum,Beauty,GlowBio Inc.,24.5,2,Apple Pay,Delivered
+ORD-00132,2025-03-11 14:19,CUST-1326,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00133,2025-03-12 03:04,CUST-1008,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00134,2025-03-12 15:49,CUST-1343,SmartWatch Series X,Electronics,TechCorp,249.99,3,Credit Card,Delivered
+ORD-00135,2025-03-13 04:35,CUST-1128,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00136,2025-03-13 17:20,CUST-1491,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00137,2025-03-14 06:05,CUST-1135,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-00138,2025-03-14 18:50,CUST-1471,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00139,2025-03-15 07:35,CUST-1062,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00140,2025-03-15 20:20,CUST-1138,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00141,2025-03-16 09:05,CUST-1498,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00142,2025-03-16 21:50,CUST-1080,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00143,2025-03-17 10:35,CUST-1391,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-00144,2025-03-17 23:20,CUST-1162,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00145,2025-03-18 12:05,CUST-1418,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00146,2025-03-19 00:50,CUST-1288,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00147,2025-03-19 13:35,CUST-1378,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00148,2025-03-20 02:20,CUST-1260,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00149,2025-03-20 15:05,CUST-1489,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00150,2025-03-21 03:50,CUST-1230,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00151,2025-03-21 16:35,CUST-1040,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00152,2025-03-22 05:20,CUST-1027,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00153,2025-03-22 18:05,CUST-1134,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00154,2025-03-23 06:50,CUST-1200,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00155,2025-03-23 19:35,CUST-1327,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00156,2025-03-24 08:20,CUST-1267,SmartWatch Series X,,TechCorp,249.99,1,PayPal,Returned
+ORD-00157,2025-03-24 21:05,CUST-1417,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00158,2025-03-25 09:50,CUST-1032,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Returned
+ORD-00159,2025-03-25 22:35,CUST-1047,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Cancelled
+ORD-00160,2025-03-26 11:20,CUST-1406,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00161,2025-03-27 00:06,,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00162,2025-03-27 12:51,CUST-1215,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00163,2025-03-28 01:36,CUST-1292,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00164,2025-03-28 14:21,CUST-1098,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00165,2025-03-29 03:06,CUST-1171,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Delivered
+ORD-00166,2025-03-29 15:51,CUST-1359,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-00167,2025-03-30 04:36,CUST-1213,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00168,2025-03-30 17:21,CUST-1474,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Shipped
+ORD-00169,2025-03-31 06:06,CUST-1034,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00170,2025-03-31 18:51,CUST-1448,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00171,2025-04-01 07:36,CUST-1226,SmartWatch Series X,Electronics,TechCorp,249.99,-1,Credit Card,Delivered
+ORD-00172,2025-04-01 20:21,CUST-1100,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Shipped
+ORD-00173,2025-04-02 09:06,CUST-1430,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00174,2025-04-02 21:51,CUST-1461,SmartWatch Series X,Electronics,TechCorp,249.99,3,Apple Pay,Delivered
+ORD-00175,2025-04-03 10:36,CUST-1130,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00176,2025-04-03 23:21,CUST-1256,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00177,2025-04-04 12:06,CUST-1004,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00178,2025-04-05 00:51,CUST-1217,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Cancelled
+ORD-00179,2025-04-05 13:36,CUST-1254,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00180,2025-04-06 02:21,CUST-1397,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00181,2025-04-06 15:06,CUST-1358,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Shipped
+ORD-00182,2025-04-07 03:51,CUST-1282,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00183,2025-04-07 16:36,CUST-1392,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00184,2025-04-08 05:21,CUST-1206,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Shipped
+ORD-00185,2025-04-08 18:06,CUST-1014,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00186,2025-04-09 06:51,CUST-1345,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00187,2025-04-09 19:36,CUST-1041,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00188,2025-04-10 08:22,CUST-1379,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00189,2025-04-10 21:07,CUST-1460,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00190,2025-04-11 09:52,CUST-1178,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00191,2025-04-11 22:37,CUST-1062,Running Shoes V2,Apparel,FitGear Inc.,120.0,1,Credit Card,Delivered
+ORD-00192,2025-04-12 11:22,CUST-1351,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Cancelled
+ORD-00193,2025-04-13 00:07,CUST-1230,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00194,2025-04-13 12:52,CUST-1240,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-00195,2025-04-14 01:37,CUST-1051,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00196,2025-04-14 14:22,CUST-1095,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00197,2025-04-15 03:07,CUST-1387,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00198,2025-04-15 15:52,CUST-1221,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00199,2025-04-16 04:37,CUST-1484,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00200,2025-04-16 17:22,CUST-1406,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Cancelled
+ORD-00201,2025-04-17 06:07,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00202,2025-04-17 18:52,CUST-1236,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00203,2025-04-18 07:37,CUST-1142,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,PayPal,Delivered
+ORD-00204,2025-04-18 20:22,CUST-1170,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00205,2025-04-19 09:07,CUST-1028,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00206,2025-04-19 21:52,CUST-1035,NoiseCancel Headphones,,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00207,2025-04-20 10:37,CUST-1012,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Delivered
+ORD-00208,2025-04-20 23:22,CUST-1159,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00209,2025-04-21 12:07,CUST-1326,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00210,2025-04-22 00:52,CUST-1186,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00211,2025-04-22 13:37,CUST-1242,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Delivered
+ORD-00212,2025-04-23 02:22,CUST-1085,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-00213,2025-04-23 15:07,CUST-1283,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00214,2025-04-24 03:52,CUST-1065,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00215,2025-04-24 16:38,CUST-1169,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00216,2025-04-25 05:23,CUST-1044,Running Shoes V2,Apparel,FitGear,1200.0,1,Apple Pay,Delivered
+ORD-00217,2025-04-25 18:08,CUST-1061,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Cancelled
+ORD-00218,2025-04-26 06:53,CUST-1440,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00219,2025-04-26 19:38,CUST-1133,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-00220,2025-04-27 08:23,CUST-1283,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00221,2025-04-27 21:08,CUST-1027,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Credit Card,Delivered
+ORD-00222,2025-04-28 09:53,CUST-1107,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00223,2025-04-28 22:38,CUST-1043,NoiseCancel Headphones,Electronics,SoundWave,149.99,4,Credit Card,Delivered
+ORD-00224,2025-04-29 11:23,CUST-1339,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00225,2025-04-30 00:08,CUST-1285,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00226,2025-04-30 12:53,CUST-1445,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00227,2025-05-01 01:38,CUST-1330,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Shipped
+ORD-00228,2025-05-01 14:23,CUST-1127,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00229,2025-05-02 03:08,CUST-1347,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-00230,2025-05-02 15:53,CUST-1472,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00231,2025-05-03 04:38,CUST-1230,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Shipped
+ORD-00232,2025-05-03 17:23,CUST-1189,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00233,2025-05-04 06:08,CUST-1224,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Shipped
+ORD-00234,2025-05-04 18:53,CUST-1384,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00235,2025-05-05 07:38,CUST-1376,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,4,PayPal,Delivered
+ORD-00236,2025-05-05 20:23,CUST-1282,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Apple Pay,Delivered
+ORD-00237,2025-05-06 09:08,CUST-1445,Running Shoes V2,Apparel,FitGear,120.0,3,Apple Pay,Delivered
+ORD-00238,2025-05-06 21:53,CUST-1120,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Delivered
+ORD-00239,2025-05-07 10:38,CUST-1115,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00240,2025-05-07 23:23,CUST-1460,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00241,2025-05-08 12:09,,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00242,2025-05-09 00:54,CUST-1258,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-00243,2025-05-09 13:39,CUST-1358,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00244,2025-05-10 02:24,CUST-1197,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00245,2025-05-10 15:09,CUST-1455,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00246,2025-05-11 03:54,CUST-1410,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00247,2025-05-11 16:39,CUST-1136,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00248,2025-05-12 05:24,CUST-1317,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Returned
+ORD-00249,2025-05-12 18:09,CUST-1164,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00250,2025-05-13 06:54,CUST-1224,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Apple Pay,Delivered
+ORD-00251,2025-05-13 19:39,CUST-1306,EcoPhone 15,Electronics,TechCorp Inc.,799.99,1,PayPal,Delivered
+ORD-00252,2025-05-14 08:24,CUST-1233,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Shipped
+ORD-00253,2025-05-14 21:09,CUST-1171,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00254,2025-05-15 09:54,CUST-1151,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00255,2025-05-15 22:39,CUST-1462,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-00256,2025-05-16 11:24,CUST-1314,Classic Denim Jacket,,ThreadsCo,89.5,3,Apple Pay,Delivered
+ORD-00257,2025-05-17 00:09,CUST-1373,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00258,2025-05-17 12:54,CUST-1159,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00259,2025-05-18 01:39,CUST-1095,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00260,2025-05-18 14:24,CUST-1471,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00261,2025-05-19 03:09,CUST-1232,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00262,2025-05-19 15:54,CUST-1179,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00263,2025-05-20 04:39,CUST-1112,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Shipped
+ORD-00264,2025-05-20 17:24,CUST-1317,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Delivered
+ORD-00265,2025-05-21 06:09,CUST-1496,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00266,2025-05-21 18:54,CUST-1441,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00267,2025-05-22 07:39,CUST-1051,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00268,2025-05-22 20:25,CUST-1267,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00269,2025-05-23 09:10,CUST-1294,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00270,2025-05-23 21:55,CUST-1385,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00271,2025-05-24 10:40,CUST-1386,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00272,2025-05-24 23:25,CUST-1112,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00273,2025-05-25 12:10,CUST-1100,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00274,2025-05-26 00:55,CUST-1112,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00275,2025-05-26 13:40,CUST-1439,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00276,2025-05-27 02:25,CUST-1080,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00277,2025-05-27 15:10,CUST-1186,Running Shoes V2,Apparel,FitGear,120.0,3,Apple Pay,Cancelled
+ORD-00278,2025-05-28 03:55,CUST-1112,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00279,2025-05-28 16:40,CUST-1001,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00280,2025-05-29 05:25,CUST-1129,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00281,2025-05-29 18:10,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,4,Apple Pay,Delivered
+ORD-00282,2025-05-30 06:55,CUST-1053,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00283,2025-05-30 19:40,CUST-1342,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Shipped
+ORD-00284,2025-05-31 08:25,CUST-1484,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00285,2025-05-31 21:10,CUST-1223,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00286,2025-06-01 09:55,CUST-1224,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00287,2025-06-01 22:40,CUST-1384,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00288,2025-06-02 11:25,CUST-1402,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00289,2025-06-03 00:10,CUST-1125,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,PayPal,Delivered
+ORD-00290,2025-06-03 12:55,CUST-1129,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00291,2025-06-04 01:40,CUST-1052,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00292,2025-06-04 14:25,CUST-1171,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00293,2025-06-05 03:10,CUST-1217,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00294,2025-06-05 15:55,CUST-1159,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Cancelled
+ORD-00295,2025-06-06 04:41,CUST-1197,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00296,2025-06-06 17:26,CUST-1415,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00297,2025-06-07 06:11,CUST-1246,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00298,2025-06-07 18:56,CUST-1323,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Shipped
+ORD-00299,2025-06-08 07:41,CUST-1438,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Cancelled
+ORD-00300,2025-06-08 20:26,CUST-1202,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00301,2025-06-09 09:11,CUST-1183,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00302,2025-06-09 21:56,CUST-1122,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Apple Pay,Delivered
+ORD-00303,2025-06-10 10:41,CUST-1400,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00304,2025-06-10 23:26,CUST-1254,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00305,2025-06-11 12:11,CUST-1293,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00306,2025-06-12 00:56,CUST-1279,Ergonomic Office Chair,,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00307,2025-06-12 13:41,CUST-1324,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00308,2025-06-13 02:26,CUST-1371,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00309,2025-06-13 15:11,CUST-1097,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Shipped
+ORD-00310,2025-06-14 03:56,CUST-1197,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00311,2025-06-14 16:41,CUST-1469,NoiseCancel Headphones,Electronics,SoundWave Inc.,149.99,1,Credit Card,Delivered
+ORD-00312,2025-06-15 05:26,CUST-1394,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00313,2025-06-15 18:11,CUST-1239,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00314,2025-06-16 06:56,CUST-1143,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00315,2025-06-16 19:41,CUST-1096,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00316,2025-06-17 08:26,CUST-1200,Running Shoes V2,Apparel,FitGear,1200.0,1,PayPal,Cancelled
+ORD-00317,2025-06-17 21:11,CUST-1123,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00318,2025-06-18 09:56,CUST-1186,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00319,2025-06-18 22:41,CUST-1325,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00320,2025-06-19 11:26,CUST-1463,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00321,2025-06-20 00:12,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,-1,Apple Pay,Delivered
+ORD-00322,2025-06-20 12:57,CUST-1258,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00323,2025-06-21 01:42,CUST-1147,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Credit Card,Delivered
+ORD-00324,2025-06-21 14:27,CUST-1251,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00325,2025-06-22 03:12,CUST-1442,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00326,2025-06-22 15:57,CUST-1419,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00327,2025-06-23 04:42,CUST-1402,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Credit Card,Delivered
+ORD-00328,2025-06-23 17:27,CUST-1345,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00329,2025-06-24 06:12,CUST-1450,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00330,2025-06-24 18:57,CUST-1146,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00331,2025-06-25 07:42,CUST-1147,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Shipped
+ORD-00332,2025-06-25 20:27,CUST-1351,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00333,2025-06-26 09:12,CUST-1198,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-00334,2025-06-26 21:57,CUST-1307,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Cancelled
+ORD-00335,2025-06-27 10:42,CUST-1488,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00336,2025-06-27 23:27,CUST-1416,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00337,2025-06-28 12:12,CUST-1423,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-00338,2025-06-29 00:57,CUST-1127,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-00339,2025-06-29 13:42,CUST-1038,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00340,2025-06-30 02:27,CUST-1337,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00341,2025-06-30 15:12,CUST-1359,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Delivered
+ORD-00342,2025-07-01 03:57,CUST-1128,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00343,2025-07-01 16:42,CUST-1266,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Shipped
+ORD-00344,2025-07-02 05:27,CUST-1475,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00345,2025-07-02 18:12,CUST-1440,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Shipped
+ORD-00346,2025-07-03 06:57,CUST-1472,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00347,2025-07-03 19:42,CUST-1433,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00348,2025-07-04 08:28,CUST-1150,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00349,2025-07-04 21:13,CUST-1414,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00350,2025-07-05 09:58,CUST-1477,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00351,2025-07-05 22:43,CUST-1297,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00352,2025-07-06 11:28,CUST-1098,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00353,2025-07-07 00:13,CUST-1262,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Shipped
+ORD-00354,2025-07-07 12:58,CUST-1251,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00355,2025-07-08 01:43,CUST-1143,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00356,2025-07-08 14:28,CUST-1345,Organic Cotton Hoodie,,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00357,2025-07-09 03:13,CUST-1111,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00358,2025-07-09 15:58,CUST-1499,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00359,2025-07-10 04:43,CUST-1059,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00360,2025-07-10 17:28,CUST-1368,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00361,2025-07-11 06:13,,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Returned
+ORD-00362,2025-07-11 18:58,CUST-1384,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00363,2025-07-12 07:43,CUST-1303,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00364,2025-07-12 20:28,CUST-1253,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00365,2025-07-13 09:13,CUST-1139,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00366,2025-07-13 21:58,CUST-1452,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00367,2025-07-14 10:43,CUST-1036,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00368,2025-07-14 23:28,CUST-1159,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Shipped
+ORD-00369,2025-07-15 12:13,CUST-1008,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00370,2025-07-16 00:58,CUST-1232,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00371,2025-07-16 13:43,CUST-1098,NoiseCancel Headphones,Electronics,SoundWave Inc.,149.99,1,PayPal,Shipped
+ORD-00372,2025-07-17 02:28,CUST-1146,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00373,2025-07-17 15:13,CUST-1303,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00374,2025-07-18 03:58,CUST-1207,Classic Denim Jacket,Apparel,ThreadsCo,89.5,4,Apple Pay,Delivered
+ORD-00375,2025-07-18 16:44,CUST-1130,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00376,2025-07-19 05:29,CUST-1403,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00377,2025-07-19 18:14,CUST-1151,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00378,2025-07-20 06:59,CUST-1053,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00379,2025-07-20 19:44,CUST-1119,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00380,2025-07-21 08:29,CUST-1160,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-00381,2025-07-21 21:14,CUST-1407,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00382,2025-07-22 09:59,CUST-1115,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00383,2025-07-22 22:44,CUST-1074,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00384,2025-07-23 11:29,CUST-1112,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00385,2025-07-24 00:14,CUST-1455,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-00386,2025-07-24 12:59,CUST-1419,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00387,2025-07-25 01:44,CUST-1421,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Cancelled
+ORD-00388,2025-07-25 14:29,CUST-1103,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00389,2025-07-26 03:14,CUST-1339,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00390,2025-07-26 15:59,CUST-1253,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00391,2025-07-27 04:44,CUST-1226,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00392,2025-07-27 17:29,CUST-1111,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00393,2025-07-28 06:14,CUST-1472,EcoPhone 15,Electronics,TechCorp,799.99,4,PayPal,Shipped
+ORD-00394,2025-07-28 18:59,CUST-1098,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00395,2025-07-29 07:44,CUST-1152,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00396,2025-07-29 20:29,CUST-1348,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,PayPal,Delivered
+ORD-00397,2025-07-30 09:14,CUST-1401,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Shipped
+ORD-00398,2025-07-30 21:59,CUST-1383,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00399,2025-07-31 10:44,CUST-1365,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Cancelled
+ORD-00400,2025-07-31 23:29,CUST-1337,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00401,2025-08-01 12:15,,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00402,2025-08-02 01:00,CUST-1309,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00403,2025-08-02 13:45,CUST-1162,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00404,2025-08-03 02:30,CUST-1207,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00405,2025-08-03 15:15,CUST-1444,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,PayPal,Delivered
+ORD-00406,2025-08-04 04:00,CUST-1168,Hydrating Face Serum,,GlowBio,24.5,2,Credit Card,Delivered
+ORD-00407,2025-08-04 16:45,CUST-1483,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00408,2025-08-05 05:30,CUST-1160,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-00409,2025-08-05 18:15,CUST-1067,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00410,2025-08-06 07:00,CUST-1288,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00411,2025-08-06 19:45,CUST-1397,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00412,2025-08-07 08:30,CUST-1276,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00413,2025-08-07 21:15,CUST-1303,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00414,2025-08-08 10:00,CUST-1403,Classic Denim Jacket,Apparel,ThreadsCo,89.5,3,Credit Card,Delivered
+ORD-00415,2025-08-08 22:45,CUST-1383,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-00416,2025-08-09 11:30,CUST-1391,NoiseCancel Headphones,Electronics,SoundWave,1499.9,1,PayPal,Delivered
+ORD-00417,2025-08-10 00:15,CUST-1134,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00418,2025-08-10 13:00,CUST-1194,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Delivered
+ORD-00419,2025-08-11 01:45,CUST-1400,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Credit Card,Delivered
+ORD-00420,2025-08-11 14:30,CUST-1127,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-00421,2025-08-12 03:15,CUST-1032,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00422,2025-08-12 16:00,CUST-1175,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00423,2025-08-13 04:45,CUST-1459,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00424,2025-08-13 17:30,CUST-1442,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00425,2025-08-14 06:15,CUST-1370,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00426,2025-08-14 19:00,CUST-1469,Running Shoes V2,Apparel,FitGear,120.0,3,PayPal,Delivered
+ORD-00427,2025-08-15 07:45,CUST-1374,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00428,2025-08-15 20:31,CUST-1021,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00429,2025-08-16 09:16,CUST-1237,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Shipped
+ORD-00430,2025-08-16 22:01,CUST-1157,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00431,2025-08-17 10:46,CUST-1037,Running Shoes V2,Apparel,FitGear Inc.,120.0,1,PayPal,Delivered
+ORD-00432,2025-08-17 23:31,CUST-1229,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00433,2025-08-18 12:16,CUST-1364,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00434,2025-08-19 01:01,CUST-1050,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Delivered
+ORD-00435,2025-08-19 13:46,CUST-1437,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,Apple Pay,Delivered
+ORD-00436,2025-08-20 02:31,CUST-1263,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00437,2025-08-20 15:16,CUST-1282,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00438,2025-08-21 04:01,CUST-1026,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Shipped
+ORD-00439,2025-08-21 16:46,CUST-1225,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00440,2025-08-22 05:31,CUST-1276,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00441,2025-08-22 18:16,,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-00442,2025-08-23 07:01,CUST-1096,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00443,2025-08-23 19:46,CUST-1283,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00444,2025-08-24 08:31,CUST-1366,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00445,2025-08-24 21:16,CUST-1447,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00446,2025-08-25 10:01,CUST-1480,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00447,2025-08-25 22:46,CUST-1452,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00448,2025-08-26 11:31,CUST-1316,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00449,2025-08-27 00:16,CUST-1303,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00450,2025-08-27 13:01,CUST-1146,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Cancelled
+ORD-00451,2025-08-28 01:46,CUST-1003,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00452,2025-08-28 14:31,CUST-1034,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00453,2025-08-29 03:16,CUST-1191,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00454,2025-08-29 16:02,CUST-1048,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00455,2025-08-30 04:47,CUST-1016,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00456,2025-08-30 17:32,CUST-1171,EcoPhone 15,,TechCorp,799.99,2,PayPal,Delivered
+ORD-00457,2025-08-31 06:17,CUST-1219,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Shipped
+ORD-00458,2025-08-31 19:02,CUST-1157,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00459,2025-09-01 07:47,CUST-1476,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Delivered
+ORD-00460,2025-09-01 20:32,CUST-1045,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00461,2025-09-02 09:17,CUST-1372,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00462,2025-09-02 22:02,CUST-1005,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00463,2025-09-03 10:47,CUST-1098,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00464,2025-09-03 23:32,CUST-1379,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00465,2025-09-04 12:17,CUST-1232,Running Shoes V2,Apparel,FitGear,120.0,3,Credit Card,Delivered
+ORD-00466,2025-09-05 01:02,CUST-1036,Classic Denim Jacket,Apparel,ThreadsCo,89.5,3,Apple Pay,Delivered
+ORD-00467,2025-09-05 13:47,CUST-1279,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Returned
+ORD-00468,2025-09-06 02:32,CUST-1348,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00469,2025-09-06 15:17,CUST-1496,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00470,2025-09-07 04:02,CUST-1301,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00471,2025-09-07 16:47,CUST-1180,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,-1,Apple Pay,Delivered
+ORD-00472,2025-09-08 05:32,CUST-1094,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00473,2025-09-08 18:17,CUST-1098,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00474,2025-09-09 07:02,CUST-1187,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,4,Apple Pay,Delivered
+ORD-00475,2025-09-09 19:47,CUST-1480,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00476,2025-09-10 08:32,CUST-1115,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00477,2025-09-10 21:17,CUST-1190,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Returned
+ORD-00478,2025-09-11 10:02,CUST-1252,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00479,2025-09-11 22:47,CUST-1468,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00480,2025-09-12 11:32,CUST-1415,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00481,2025-09-13 00:18,,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00482,2025-09-13 13:03,CUST-1160,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-00483,2025-09-14 01:48,CUST-1255,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00484,2025-09-14 14:33,CUST-1322,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00485,2025-09-15 03:18,CUST-1127,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00486,2025-09-15 16:03,CUST-1017,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00487,2025-09-16 04:48,CUST-1280,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00488,2025-09-16 17:33,CUST-1489,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00489,2025-09-17 06:18,CUST-1222,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00490,2025-09-17 19:03,CUST-1053,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-00491,2025-09-18 07:48,CUST-1057,SmartWatch Series X,Electronics,TechCorp Inc.,249.99,1,Credit Card,Delivered
+ORD-00492,2025-09-18 20:33,CUST-1322,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00493,2025-09-19 09:18,CUST-1359,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00494,2025-09-19 22:03,CUST-1173,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00495,2025-09-20 10:48,CUST-1279,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Delivered
+ORD-00496,2025-09-20 23:33,CUST-1113,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00497,2025-09-21 12:18,CUST-1287,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00498,2025-09-22 01:03,CUST-1430,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00499,2025-09-22 13:48,CUST-1341,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00500,2025-09-23 02:33,CUST-1150,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00501,2025-09-23 15:18,CUST-1449,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00502,2025-09-24 04:03,CUST-1126,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00503,2025-09-24 16:48,CUST-1154,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00504,2025-09-25 05:33,CUST-1489,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Cancelled
+ORD-00505,2025-09-25 18:18,CUST-1385,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00506,2025-09-26 07:03,CUST-1473,Ergonomic Office Chair,,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00507,2025-09-26 19:48,CUST-1272,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Shipped
+ORD-00508,2025-09-27 08:34,CUST-1103,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,Apple Pay,Cancelled
+ORD-00509,2025-09-27 21:19,CUST-1416,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00510,2025-09-28 10:04,CUST-1392,EcoPhone 15,Electronics,TechCorp,799.99,2,Credit Card,Delivered
+ORD-00511,2025-09-28 22:49,CUST-1298,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00512,2025-09-29 11:34,CUST-1245,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00513,2025-09-30 00:19,CUST-1175,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00514,2025-09-30 13:04,CUST-1038,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00515,2025-10-01 01:49,CUST-1476,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00516,2025-10-01 14:34,CUST-1169,Hydrating Face Serum,Beauty,GlowBio,245.0,1,Credit Card,Cancelled
+ORD-00517,2025-10-02 03:19,CUST-1246,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00518,2025-10-02 16:04,CUST-1025,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00519,2025-10-03 04:49,CUST-1354,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00520,2025-10-03 17:34,CUST-1305,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00521,2025-10-04 06:19,,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00522,2025-10-04 19:04,CUST-1407,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00523,2025-10-05 07:49,CUST-1012,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00524,2025-10-05 20:34,CUST-1315,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00525,2025-10-06 09:19,CUST-1390,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00526,2025-10-06 22:04,CUST-1312,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Returned
+ORD-00527,2025-10-07 10:49,CUST-1035,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00528,2025-10-07 23:34,CUST-1172,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00529,2025-10-08 12:19,CUST-1019,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00530,2025-10-09 01:04,CUST-1320,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00531,2025-10-09 13:49,CUST-1263,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00532,2025-10-10 02:34,CUST-1493,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-00533,2025-10-10 15:19,CUST-1399,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00534,2025-10-11 04:05,CUST-1141,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00535,2025-10-11 16:50,CUST-1459,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00536,2025-10-12 05:35,CUST-1370,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00537,2025-10-12 18:20,CUST-1470,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00538,2025-10-13 07:05,CUST-1142,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00539,2025-10-13 19:50,CUST-1091,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00540,2025-10-14 08:35,CUST-1353,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00541,2025-10-14 21:20,CUST-1321,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00542,2025-10-15 10:05,CUST-1287,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00543,2025-10-15 22:50,CUST-1214,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00544,2025-10-16 11:35,CUST-1446,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00545,2025-10-17 00:20,CUST-1341,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00546,2025-10-17 13:05,CUST-1050,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00547,2025-10-18 01:50,CUST-1152,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00548,2025-10-18 14:35,CUST-1185,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00549,2025-10-19 03:20,CUST-1062,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Delivered
+ORD-00550,2025-10-19 16:05,CUST-1189,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00551,2025-10-20 04:50,CUST-1124,Ergonomic Office Chair,Home & Kitchen,ComfortSeat Inc.,220.0,1,Apple Pay,Delivered
+ORD-00552,2025-10-20 17:35,CUST-1149,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Shipped
+ORD-00553,2025-10-21 06:20,CUST-1313,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00554,2025-10-21 19:05,CUST-1057,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,4,Credit Card,Shipped
+ORD-00555,2025-10-22 07:50,CUST-1341,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Returned
+ORD-00556,2025-10-22 20:35,CUST-1304,Ergonomic Office Chair,,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00557,2025-10-23 09:20,CUST-1179,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-00558,2025-10-23 22:05,CUST-1169,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Returned
+ORD-00559,2025-10-24 10:50,CUST-1325,Running Shoes V2,Apparel,FitGear,120.0,4,Credit Card,Delivered
+ORD-00560,2025-10-24 23:35,CUST-1270,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Apple Pay,Delivered
+ORD-00561,2025-10-25 12:21,,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00562,2025-10-26 01:06,CUST-1490,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00563,2025-10-26 13:51,CUST-1443,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00564,2025-10-27 02:36,CUST-1100,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00565,2025-10-27 15:21,CUST-1480,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00566,2025-10-28 04:06,CUST-1263,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00567,2025-10-28 16:51,CUST-1052,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Shipped
+ORD-00568,2025-10-29 05:36,CUST-1059,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00569,2025-10-29 18:21,CUST-1491,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,PayPal,Delivered
+ORD-00570,2025-10-30 07:06,CUST-1107,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00571,2025-10-30 19:51,CUST-1004,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00572,2025-10-31 08:36,CUST-1102,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Apple Pay,Delivered
+ORD-00573,2025-10-31 21:21,CUST-1195,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Shipped
+ORD-00574,2025-11-01 10:06,CUST-1261,EcoPhone 15,Electronics,TechCorp,799.99,2,Credit Card,Delivered
+ORD-00575,2025-11-01 22:51,CUST-1364,Classic Denim Jacket,Apparel,ThreadsCo,89.5,4,PayPal,Delivered
+ORD-00576,2025-11-02 11:36,CUST-1479,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Credit Card,Delivered
+ORD-00577,2025-11-03 00:21,CUST-1371,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00578,2025-11-03 13:06,CUST-1349,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Shipped
+ORD-00579,2025-11-04 01:51,CUST-1046,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00580,2025-11-04 14:36,CUST-1354,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-00581,2025-11-05 03:21,CUST-1310,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-00582,2025-11-05 16:06,CUST-1423,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Shipped
+ORD-00583,2025-11-06 04:51,CUST-1307,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00584,2025-11-06 17:36,CUST-1143,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00585,2025-11-07 06:21,CUST-1268,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00586,2025-11-07 19:06,CUST-1369,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Shipped
+ORD-00587,2025-11-08 07:51,CUST-1123,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00588,2025-11-08 20:37,CUST-1105,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,PayPal,Delivered
+ORD-00589,2025-11-09 09:22,CUST-1157,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00590,2025-11-09 22:07,CUST-1146,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00591,2025-11-10 10:52,CUST-1144,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00592,2025-11-10 23:37,CUST-1119,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00593,2025-11-11 12:22,CUST-1318,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Shipped
+ORD-00594,2025-11-12 01:07,CUST-1274,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00595,2025-11-12 13:52,CUST-1091,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Shipped
+ORD-00596,2025-11-13 02:37,CUST-1057,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-00597,2025-11-13 15:22,CUST-1438,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00598,2025-11-14 04:07,CUST-1345,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00599,2025-11-14 16:52,CUST-1228,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00600,2025-11-15 05:37,CUST-1473,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Returned
+ORD-00601,2025-11-15 18:22,,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00602,2025-11-16 07:07,CUST-1317,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00603,2025-11-16 19:52,CUST-1278,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00604,2025-11-17 08:37,CUST-1126,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00605,2025-11-17 21:22,CUST-1392,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00606,2025-11-18 10:07,CUST-1395,Ergonomic Office Chair,,ComfortSeat,220.0,4,Credit Card,Delivered
+ORD-00607,2025-11-18 22:52,CUST-1128,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Cancelled
+ORD-00608,2025-11-19 11:37,CUST-1057,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00609,2025-11-20 00:22,CUST-1121,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00610,2025-11-20 13:07,CUST-1000,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Delivered
+ORD-00611,2025-11-21 01:52,CUST-1238,Organic Cotton Hoodie,Apparel,ThreadsCo Inc.,59.99,1,PayPal,Shipped
+ORD-00612,2025-11-21 14:37,CUST-1289,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00613,2025-11-22 03:22,CUST-1095,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00614,2025-11-22 16:08,CUST-1125,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00615,2025-11-23 04:53,CUST-1117,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00616,2025-11-23 17:38,CUST-1047,SmartWatch Series X,Electronics,TechCorp,2499.9,2,Credit Card,Delivered
+ORD-00617,2025-11-24 06:23,CUST-1088,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Shipped
+ORD-00618,2025-11-24 19:08,CUST-1487,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00619,2025-11-25 07:53,CUST-1236,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-00620,2025-11-25 20:38,CUST-1372,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00621,2025-11-26 09:23,CUST-1384,Hydrating Face Serum,Beauty,GlowBio,24.5,-1,Credit Card,Delivered
+ORD-00622,2025-11-26 22:08,CUST-1271,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00623,2025-11-27 10:53,CUST-1188,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00624,2025-11-27 23:38,CUST-1486,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00625,2025-11-28 12:23,CUST-1191,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00626,2025-11-29 01:08,CUST-1446,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00627,2025-11-29 13:53,CUST-1068,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00628,2025-11-30 02:38,CUST-1277,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Returned
+ORD-00629,2025-11-30 15:23,CUST-1348,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00630,2025-12-01 04:08,CUST-1246,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00631,2025-12-01 16:53,CUST-1450,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00632,2025-12-02 05:38,CUST-1075,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00633,2025-12-02 18:23,CUST-1153,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00634,2025-12-03 07:08,CUST-1143,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00635,2025-12-03 19:53,CUST-1434,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00636,2025-12-04 08:38,CUST-1484,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00637,2025-12-04 21:23,CUST-1085,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Apple Pay,Delivered
+ORD-00638,2025-12-05 10:08,CUST-1184,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00639,2025-12-05 22:53,CUST-1284,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Delivered
+ORD-00640,2025-12-06 11:38,CUST-1461,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,Credit Card,Delivered
+ORD-00641,2025-12-07 00:24,,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-00642,2025-12-07 13:09,CUST-1068,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00643,2025-12-08 01:54,CUST-1046,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00644,2025-12-08 14:39,CUST-1496,SmartWatch Series X,Electronics,TechCorp,249.99,4,Credit Card,Delivered
+ORD-00645,2025-12-09 03:24,CUST-1093,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00646,2025-12-09 16:09,CUST-1237,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Cancelled
+ORD-00647,2025-12-10 04:54,CUST-1445,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00648,2025-12-10 17:39,CUST-1499,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00649,2025-12-11 06:24,CUST-1452,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00650,2025-12-11 19:09,CUST-1203,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00651,2025-12-12 07:54,CUST-1399,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Cancelled
+ORD-00652,2025-12-12 20:39,CUST-1217,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00653,2025-12-13 09:24,CUST-1473,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00654,2025-12-13 22:09,CUST-1431,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00655,2025-12-14 10:54,CUST-1340,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00656,2025-12-14 23:39,CUST-1038,SmartWatch Series X,,TechCorp,249.99,1,PayPal,Delivered
+ORD-00657,2025-12-15 12:24,CUST-1099,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00658,2025-12-16 01:09,CUST-1288,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Cancelled
+ORD-00659,2025-12-16 13:54,CUST-1253,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00660,2025-12-17 02:39,CUST-1221,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00661,2025-12-17 15:24,CUST-1356,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Shipped
+ORD-00662,2025-12-18 04:09,CUST-1022,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00663,2025-12-18 16:54,CUST-1249,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Shipped
+ORD-00664,2025-12-19 05:39,CUST-1009,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Returned
+ORD-00665,2025-12-19 18:24,CUST-1245,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Delivered
+ORD-00666,2025-12-20 07:09,CUST-1324,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00667,2025-12-20 19:54,CUST-1099,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00668,2025-12-21 08:40,CUST-1289,Classic Denim Jacket,Apparel,ThreadsCo,89.5,4,Apple Pay,Cancelled
+ORD-00669,2025-12-21 21:25,CUST-1179,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00670,2025-12-22 10:10,CUST-1222,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00671,2025-12-22 22:55,CUST-1393,Running Shoes V2,Apparel,FitGear Inc.,120.0,2,Credit Card,Shipped
+ORD-00672,2025-12-23 11:40,CUST-1249,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Cancelled
+ORD-00673,2025-12-24 00:25,CUST-1146,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00674,2025-12-24 13:10,CUST-1441,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00675,2025-12-25 01:55,CUST-1095,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Cancelled
+ORD-00676,2025-12-25 14:40,CUST-1256,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00677,2025-12-26 03:25,CUST-1324,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Cancelled
+ORD-00678,2025-12-26 16:10,CUST-1492,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00679,2025-12-27 04:55,CUST-1003,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00680,2025-12-27 17:40,CUST-1015,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00681,2025-12-28 06:25,,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00682,2025-12-28 19:10,CUST-1335,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00683,2025-12-29 07:55,CUST-1246,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00684,2025-12-29 20:40,CUST-1257,EcoPhone 15,Electronics,TechCorp,799.99,2,Credit Card,Delivered
+ORD-00685,2025-12-30 09:25,CUST-1496,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00686,2025-12-30 22:10,CUST-1475,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,Credit Card,Delivered
+ORD-00687,2025-12-31 10:55,CUST-1383,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00688,2025-12-31 23:40,CUST-1159,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00689,2026-01-01 12:25,CUST-1474,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00690,2026-01-02 01:10,CUST-1339,Hydrating Face Serum,Beauty,GlowBio,24.5,3,PayPal,Delivered
+ORD-00691,2026-01-02 13:55,CUST-1151,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00692,2026-01-03 02:40,CUST-1395,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00693,2026-01-03 15:25,CUST-1177,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00694,2026-01-04 04:11,CUST-1162,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Cancelled
+ORD-00695,2026-01-04 16:56,CUST-1379,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Shipped
+ORD-00696,2026-01-05 05:41,CUST-1032,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Credit Card,Delivered
+ORD-00697,2026-01-05 18:26,CUST-1416,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Returned
+ORD-00698,2026-01-06 07:11,CUST-1444,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00699,2026-01-06 19:56,CUST-1178,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00700,2026-01-07 08:41,CUST-1426,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00701,2026-01-07 21:26,CUST-1100,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00702,2026-01-08 10:11,CUST-1267,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00703,2026-01-08 22:56,CUST-1322,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00704,2026-01-09 11:41,CUST-1064,Classic Denim Jacket,Apparel,ThreadsCo,89.5,3,Apple Pay,Delivered
+ORD-00705,2026-01-10 00:26,CUST-1416,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00706,2026-01-10 13:11,CUST-1167,NoiseCancel Headphones,,SoundWave,149.99,1,PayPal,Delivered
+ORD-00707,2026-01-11 01:56,CUST-1329,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00708,2026-01-11 14:41,CUST-1042,NoiseCancel Headphones,Electronics,SoundWave,149.99,4,PayPal,Delivered
+ORD-00709,2026-01-12 03:26,CUST-1043,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00710,2026-01-12 16:11,CUST-1284,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00711,2026-01-13 04:56,CUST-1396,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-00712,2026-01-13 17:41,CUST-1011,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Shipped
+ORD-00713,2026-01-14 06:26,CUST-1094,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00714,2026-01-14 19:11,CUST-1301,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00715,2026-01-15 07:56,CUST-1385,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,Apple Pay,Delivered
+ORD-00716,2026-01-15 20:41,CUST-1252,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,2200.0,1,Apple Pay,Delivered
+ORD-00717,2026-01-16 09:26,CUST-1498,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00718,2026-01-16 22:11,CUST-1241,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00719,2026-01-17 10:56,CUST-1034,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00720,2026-01-17 23:41,CUST-1214,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00721,2026-01-18 12:27,,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00722,2026-01-19 01:12,CUST-1089,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00723,2026-01-19 13:57,CUST-1263,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00724,2026-01-20 02:42,CUST-1092,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00725,2026-01-20 15:27,CUST-1409,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00726,2026-01-21 04:12,CUST-1457,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00727,2026-01-21 16:57,CUST-1089,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00728,2026-01-22 05:42,CUST-1417,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00729,2026-01-22 18:27,CUST-1114,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00730,2026-01-23 07:12,CUST-1104,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00731,2026-01-23 19:57,CUST-1390,EcoPhone 15,Electronics,TechCorp Inc.,799.99,1,PayPal,Shipped
+ORD-00732,2026-01-24 08:42,CUST-1195,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00733,2026-01-24 21:27,CUST-1313,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Shipped
+ORD-00734,2026-01-25 10:12,CUST-1113,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00735,2026-01-25 22:57,CUST-1492,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00736,2026-01-26 11:42,CUST-1074,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00737,2026-01-27 00:27,CUST-1412,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-00738,2026-01-27 13:12,CUST-1375,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00739,2026-01-28 01:57,CUST-1419,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Credit Card,Delivered
+ORD-00740,2026-01-28 14:42,CUST-1216,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00741,2026-01-29 03:27,CUST-1276,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Delivered
+ORD-00742,2026-01-29 16:12,CUST-1248,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00743,2026-01-30 04:57,CUST-1163,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Shipped
+ORD-00744,2026-01-30 17:42,CUST-1393,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00745,2026-01-31 06:27,CUST-1356,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00746,2026-01-31 19:12,CUST-1456,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00747,2026-02-01 07:57,CUST-1407,Running Shoes V2,Apparel,FitGear,120.0,3,Credit Card,Delivered
+ORD-00748,2026-02-01 20:43,CUST-1191,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00749,2026-02-02 09:28,CUST-1226,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Returned
+ORD-00750,2026-02-02 22:13,CUST-1176,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00751,2026-02-03 10:58,CUST-1098,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00752,2026-02-03 23:43,CUST-1495,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00753,2026-02-04 12:28,CUST-1035,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00754,2026-02-05 01:13,CUST-1465,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00755,2026-02-05 13:58,CUST-1496,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00756,2026-02-06 02:43,CUST-1486,SmartWatch Series X,,TechCorp,249.99,2,Apple Pay,Returned
+ORD-00757,2026-02-06 15:28,CUST-1095,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Apple Pay,Delivered
+ORD-00758,2026-02-07 04:13,CUST-1151,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Shipped
+ORD-00759,2026-02-07 16:58,CUST-1150,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00760,2026-02-08 05:43,CUST-1189,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00761,2026-02-08 18:28,,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Delivered
+ORD-00762,2026-02-09 07:13,CUST-1036,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00763,2026-02-09 19:58,CUST-1267,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Shipped
+ORD-00764,2026-02-10 08:43,CUST-1368,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Delivered
+ORD-00765,2026-02-10 21:28,CUST-1182,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00766,2026-02-11 10:13,CUST-1012,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00767,2026-02-11 22:58,CUST-1278,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-00768,2026-02-12 11:43,CUST-1216,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00769,2026-02-13 00:28,CUST-1354,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00770,2026-02-13 13:13,CUST-1360,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00771,2026-02-14 01:58,CUST-1285,SmartWatch Series X,Electronics,TechCorp,249.99,-1,Apple Pay,Delivered
+ORD-00772,2026-02-14 14:43,CUST-1272,Hydrating Face Serum,Beauty,GlowBio,24.5,3,Credit Card,Delivered
+ORD-00773,2026-02-15 03:28,CUST-1368,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00774,2026-02-15 16:14,CUST-1061,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00775,2026-02-16 04:59,CUST-1083,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Shipped
+ORD-00776,2026-02-16 17:44,CUST-1367,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00777,2026-02-17 06:29,CUST-1216,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00778,2026-02-17 19:14,CUST-1341,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00779,2026-02-18 07:59,CUST-1396,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00780,2026-02-18 20:44,CUST-1186,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00781,2026-02-19 09:29,CUST-1018,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00782,2026-02-19 22:14,CUST-1176,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00783,2026-02-20 10:59,CUST-1099,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00784,2026-02-20 23:44,CUST-1395,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Cancelled
+ORD-00785,2026-02-21 12:29,CUST-1444,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00786,2026-02-22 01:14,CUST-1232,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00787,2026-02-22 13:59,CUST-1402,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-00788,2026-02-23 02:44,CUST-1075,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00789,2026-02-23 15:29,CUST-1264,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Shipped
+ORD-00790,2026-02-24 04:14,CUST-1454,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,4,Credit Card,Delivered
+ORD-00791,2026-02-24 16:59,CUST-1283,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro Inc.,99.99,2,Apple Pay,Delivered
+ORD-00792,2026-02-25 05:44,CUST-1205,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00793,2026-02-25 18:29,CUST-1222,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00794,2026-02-26 07:14,CUST-1383,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00795,2026-02-26 19:59,CUST-1051,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00796,2026-02-27 08:44,CUST-1338,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00797,2026-02-27 21:29,CUST-1366,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Apple Pay,Delivered
+ORD-00798,2026-02-28 10:14,CUST-1143,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-00799,2026-02-28 22:59,CUST-1372,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00800,2026-03-01 11:44,CUST-1068,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00801,2026-03-02 00:30,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Delivered
+ORD-00802,2026-03-02 13:15,CUST-1395,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00803,2026-03-03 02:00,CUST-1024,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00804,2026-03-03 14:45,CUST-1435,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Delivered
+ORD-00805,2026-03-04 03:30,CUST-1378,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00806,2026-03-04 16:15,CUST-1468,Running Shoes V2,,FitGear,120.0,1,PayPal,Delivered
+ORD-00807,2026-03-05 05:00,CUST-1483,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00808,2026-03-05 17:45,CUST-1052,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00809,2026-03-06 06:30,CUST-1150,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-00810,2026-03-06 19:15,CUST-1143,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Cancelled
+ORD-00811,2026-03-07 08:00,CUST-1056,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-00812,2026-03-07 20:45,CUST-1038,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00813,2026-03-08 09:30,CUST-1108,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00814,2026-03-08 22:15,CUST-1180,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Delivered
+ORD-00815,2026-03-09 11:00,CUST-1041,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00816,2026-03-09 23:45,CUST-1185,NoiseCancel Headphones,Electronics,SoundWave,1499.9,2,Credit Card,Delivered
+ORD-00817,2026-03-10 12:30,CUST-1422,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00818,2026-03-11 01:15,CUST-1397,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00819,2026-03-11 14:00,CUST-1222,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Returned
+ORD-00820,2026-03-12 02:45,CUST-1121,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00821,2026-03-12 15:30,CUST-1132,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00822,2026-03-13 04:15,CUST-1162,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00823,2026-03-13 17:00,CUST-1214,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-00824,2026-03-14 05:45,CUST-1220,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00825,2026-03-14 18:30,CUST-1234,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00826,2026-03-15 07:15,CUST-1330,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Shipped
+ORD-00827,2026-03-15 20:01,CUST-1145,Hydrating Face Serum,Beauty,GlowBio,24.5,3,PayPal,Delivered
+ORD-00828,2026-03-16 08:46,CUST-1238,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00829,2026-03-16 21:31,CUST-1075,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00830,2026-03-17 10:16,CUST-1008,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00831,2026-03-17 23:01,CUST-1073,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00832,2026-03-18 11:46,CUST-1441,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00833,2026-03-19 00:31,CUST-1491,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Cancelled
+ORD-00834,2026-03-19 13:16,CUST-1400,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Returned
+ORD-00835,2026-03-20 02:01,CUST-1252,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00836,2026-03-20 14:46,CUST-1229,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00837,2026-03-21 03:31,CUST-1006,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00838,2026-03-21 16:16,CUST-1173,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00839,2026-03-22 05:01,CUST-1140,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00840,2026-03-22 17:46,CUST-1167,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00841,2026-03-23 06:31,,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00842,2026-03-23 19:16,CUST-1392,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00843,2026-03-24 08:01,CUST-1433,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Credit Card,Shipped
+ORD-00844,2026-03-24 20:46,CUST-1282,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00845,2026-03-25 09:31,CUST-1121,Running Shoes V2,Apparel,FitGear,120.0,3,PayPal,Delivered
+ORD-00846,2026-03-25 22:16,CUST-1193,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00847,2026-03-26 11:01,CUST-1004,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00848,2026-03-26 23:46,CUST-1028,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00849,2026-03-27 12:31,CUST-1164,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00850,2026-03-28 01:16,CUST-1421,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,PayPal,Delivered
+ORD-00851,2026-03-28 14:01,CUST-1338,Sonic Electric Toothbrush,Beauty,DentalLux Inc.,79.99,1,PayPal,Delivered
+ORD-00852,2026-03-29 02:46,CUST-1135,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00853,2026-03-29 15:31,CUST-1495,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00854,2026-03-30 04:17,CUST-1364,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00855,2026-03-30 17:02,CUST-1320,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Returned
+ORD-00856,2026-03-31 05:47,CUST-1341,EcoPhone 15,,TechCorp,799.99,1,PayPal,Delivered
+ORD-00857,2026-03-31 18:32,CUST-1499,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Credit Card,Cancelled
+ORD-00858,2026-04-01 07:17,CUST-1144,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00859,2026-04-01 20:02,CUST-1326,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Cancelled
+ORD-00860,2026-04-02 08:47,CUST-1216,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00861,2026-04-02 21:32,CUST-1300,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00862,2026-04-03 10:17,CUST-1131,Hydrating Face Serum,Beauty,GlowBio,24.5,4,Apple Pay,Delivered
+ORD-00863,2026-04-03 23:02,CUST-1291,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00864,2026-04-04 11:47,CUST-1069,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00865,2026-04-05 00:32,CUST-1251,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00866,2026-04-05 13:17,CUST-1414,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00867,2026-04-06 02:02,CUST-1274,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00868,2026-04-06 14:47,CUST-1444,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,PayPal,Delivered
+ORD-00869,2026-04-07 03:32,CUST-1363,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00870,2026-04-07 16:17,CUST-1181,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,4,Apple Pay,Delivered
+ORD-00871,2026-04-08 05:02,CUST-1166,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00872,2026-04-08 17:47,CUST-1090,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00873,2026-04-09 06:32,CUST-1201,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00874,2026-04-09 19:17,CUST-1345,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00875,2026-04-10 08:02,CUST-1018,Running Shoes V2,Apparel,FitGear,120.0,2,PayPal,Delivered
+ORD-00876,2026-04-10 20:47,CUST-1038,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Cancelled
+ORD-00877,2026-04-11 09:32,CUST-1125,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Delivered
+ORD-00878,2026-04-11 22:17,CUST-1450,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00879,2026-04-12 11:02,CUST-1172,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00880,2026-04-12 23:47,CUST-1140,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00881,2026-04-13 12:33,,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00882,2026-04-14 01:18,CUST-1219,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-00883,2026-04-14 14:03,CUST-1125,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-00884,2026-04-15 02:48,CUST-1057,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00885,2026-04-15 15:33,CUST-1147,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00886,2026-04-16 04:18,CUST-1475,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00887,2026-04-16 17:03,CUST-1455,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,4,Credit Card,Delivered
+ORD-00888,2026-04-17 05:48,CUST-1316,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-00889,2026-04-17 18:33,CUST-1382,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00890,2026-04-18 07:18,CUST-1360,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00891,2026-04-18 20:03,CUST-1422,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Cancelled
+ORD-00892,2026-04-19 08:48,CUST-1000,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Shipped
+ORD-00893,2026-04-19 21:33,CUST-1386,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00894,2026-04-20 10:18,CUST-1460,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00895,2026-04-20 23:03,CUST-1347,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Delivered
+ORD-00896,2026-04-21 11:48,CUST-1189,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00897,2026-04-22 00:33,CUST-1190,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Delivered
+ORD-00898,2026-04-22 13:18,CUST-1368,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00899,2026-04-23 02:03,CUST-1408,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00900,2026-04-23 14:48,CUST-1311,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-00901,2026-04-24 03:33,CUST-1416,Hydrating Face Serum,Beauty,GlowBio,24.5,3,PayPal,Returned
+ORD-00902,2026-04-24 16:18,CUST-1421,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00903,2026-04-25 05:03,CUST-1116,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00904,2026-04-25 17:48,CUST-1133,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00905,2026-04-26 06:33,CUST-1057,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00906,2026-04-26 19:18,CUST-1043,Running Shoes V2,,FitGear,120.0,1,PayPal,Delivered
+ORD-00907,2026-04-27 08:04,CUST-1172,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00908,2026-04-27 20:49,CUST-1159,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-00909,2026-04-28 09:34,CUST-1172,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00910,2026-04-28 22:19,CUST-1316,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00911,2026-04-29 11:04,CUST-1302,Sonic Electric Toothbrush,Beauty,DentalLux Inc.,79.99,1,PayPal,Delivered
+ORD-00912,2026-04-29 23:49,CUST-1148,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00913,2026-04-30 12:34,CUST-1079,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Cancelled
+ORD-00914,2026-05-01 01:19,CUST-1373,Classic Denim Jacket,Apparel,ThreadsCo,89.5,3,Credit Card,Delivered
+ORD-00915,2026-05-01 14:04,CUST-1212,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Credit Card,Delivered
+ORD-00916,2026-05-02 02:49,CUST-1202,Organic Cotton Hoodie,Apparel,ThreadsCo,599.9,1,PayPal,Delivered
+ORD-00917,2026-05-02 15:34,CUST-1251,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Delivered
+ORD-00918,2026-05-03 04:19,CUST-1228,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Credit Card,Delivered
+ORD-00919,2026-05-03 17:04,CUST-1163,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00920,2026-05-04 05:49,CUST-1226,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00921,2026-05-04 18:34,,Hydrating Face Serum,Beauty,GlowBio,24.5,-1,Credit Card,Delivered
+ORD-00922,2026-05-05 07:19,CUST-1019,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00923,2026-05-05 20:04,CUST-1440,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00924,2026-05-06 08:49,CUST-1401,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00925,2026-05-06 21:34,CUST-1046,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00926,2026-05-07 10:19,CUST-1232,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Apple Pay,Delivered
+ORD-00927,2026-05-07 23:04,CUST-1304,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00928,2026-05-08 11:49,CUST-1013,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00929,2026-05-09 00:34,CUST-1142,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Apple Pay,Delivered
+ORD-00930,2026-05-09 13:19,CUST-1414,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00931,2026-05-10 02:04,CUST-1000,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-00932,2026-05-10 14:49,CUST-1372,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-00933,2026-05-11 03:34,CUST-1053,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-00934,2026-05-11 16:20,CUST-1373,SmartWatch Series X,Electronics,TechCorp,249.99,2,Credit Card,Shipped
+ORD-00935,2026-05-12 05:05,CUST-1258,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00936,2026-05-12 17:50,CUST-1143,Running Shoes V2,Apparel,FitGear,120.0,4,Credit Card,Delivered
+ORD-00937,2026-05-13 06:35,CUST-1470,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00938,2026-05-13 19:20,CUST-1440,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00939,2026-05-14 08:05,CUST-1458,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00940,2026-05-14 20:50,CUST-1011,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Shipped
+ORD-00941,2026-05-15 09:35,CUST-1329,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00942,2026-05-15 22:20,CUST-1223,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00943,2026-05-16 11:05,CUST-1271,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-00944,2026-05-16 23:50,CUST-1455,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-00945,2026-05-17 12:35,CUST-1357,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,Credit Card,Delivered
+ORD-00946,2026-05-18 01:20,CUST-1459,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00947,2026-05-18 14:05,CUST-1407,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-00948,2026-05-19 02:50,CUST-1155,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-00949,2026-05-19 15:35,CUST-1372,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Credit Card,Delivered
+ORD-00950,2026-05-20 04:20,CUST-1007,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-00951,2026-05-20 17:05,CUST-1121,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Delivered
+ORD-00952,2026-05-21 05:50,CUST-1347,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00953,2026-05-21 18:35,CUST-1163,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00954,2026-05-22 07:20,CUST-1089,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00955,2026-05-22 20:05,CUST-1135,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Credit Card,Delivered
+ORD-00956,2026-05-23 08:50,CUST-1185,Digital Air Fryer 5Q,,KitchenPro,99.99,1,PayPal,Delivered
+ORD-00957,2026-05-23 21:35,CUST-1315,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-00958,2026-05-24 10:20,CUST-1177,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00959,2026-05-24 23:05,CUST-1027,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00960,2026-05-25 11:50,CUST-1219,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,4,Credit Card,Delivered
+ORD-00961,2026-05-26 00:36,,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-00962,2026-05-26 13:21,CUST-1040,EcoPhone 15,Electronics,TechCorp,799.99,4,Credit Card,Delivered
+ORD-00963,2026-05-27 02:06,CUST-1227,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00964,2026-05-27 14:51,CUST-1191,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-00965,2026-05-28 03:36,CUST-1410,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-00966,2026-05-28 16:21,CUST-1446,SmartWatch Series X,Electronics,TechCorp,249.99,1,Credit Card,Delivered
+ORD-00967,2026-05-29 05:06,CUST-1144,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00968,2026-05-29 17:51,CUST-1200,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00969,2026-05-30 06:36,CUST-1416,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00970,2026-05-30 19:21,CUST-1211,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,PayPal,Delivered
+ORD-00971,2026-05-31 08:06,CUST-1460,Ergonomic Office Chair,Home & Kitchen,ComfortSeat Inc.,220.0,2,Apple Pay,Delivered
+ORD-00972,2026-05-31 20:51,CUST-1219,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-00973,2026-06-01 09:36,CUST-1239,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-00974,2026-06-01 22:21,CUST-1412,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-00975,2026-06-02 11:06,CUST-1396,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00976,2026-06-02 23:51,CUST-1045,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00977,2026-06-03 12:36,CUST-1034,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Credit Card,Delivered
+ORD-00978,2026-06-04 01:21,CUST-1252,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-00979,2026-06-04 14:06,CUST-1389,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00980,2026-06-05 02:51,CUST-1081,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00981,2026-06-05 15:36,CUST-1370,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00982,2026-06-06 04:21,CUST-1255,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00983,2026-06-06 17:06,CUST-1196,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-00984,2026-06-07 05:51,CUST-1302,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00985,2026-06-07 18:36,CUST-1408,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-00986,2026-06-08 07:21,CUST-1449,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-00987,2026-06-08 20:07,CUST-1009,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-00988,2026-06-09 08:52,CUST-1311,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-00989,2026-06-09 21:37,CUST-1285,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00990,2026-06-10 10:22,CUST-1241,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-00991,2026-06-10 23:07,CUST-1250,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-00992,2026-06-11 11:52,CUST-1364,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Shipped
+ORD-00993,2026-06-12 00:37,CUST-1004,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-00994,2026-06-12 13:22,CUST-1118,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00995,2026-06-13 02:07,CUST-1288,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,PayPal,Delivered
+ORD-00996,2026-06-13 14:52,CUST-1373,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-00997,2026-06-14 03:37,CUST-1064,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00998,2026-06-14 16:22,CUST-1145,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-00999,2026-06-15 05:07,CUST-1223,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01000,2026-06-15 17:52,CUST-1238,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01001,2026-06-16 06:37,,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-01002,2026-06-16 19:22,CUST-1266,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-01003,2026-06-17 08:07,CUST-1340,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Shipped
+ORD-01004,2026-06-17 20:52,CUST-1281,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-01005,2026-06-18 09:37,CUST-1062,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Credit Card,Delivered
+ORD-01006,2026-06-18 22:22,CUST-1216,SmartWatch Series X,,TechCorp,249.99,1,PayPal,Delivered
+ORD-01007,2026-06-19 11:07,CUST-1341,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01008,2026-06-19 23:52,CUST-1314,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-01009,2026-06-20 12:37,CUST-1282,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-01010,2026-06-21 01:22,CUST-1176,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-01011,2026-06-21 14:07,CUST-1460,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-01012,2026-06-22 02:52,CUST-1416,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Cancelled
+ORD-01013,2026-06-22 15:37,CUST-1097,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-01014,2026-06-23 04:23,CUST-1104,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-01015,2026-06-23 17:08,CUST-1098,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-01016,2026-06-24 05:53,CUST-1384,Classic Denim Jacket,Apparel,ThreadsCo,895.0,2,Credit Card,Delivered
+ORD-01017,2026-06-24 18:38,CUST-1404,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01018,2026-06-25 07:23,CUST-1495,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-01019,2026-06-25 20:08,CUST-1310,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01020,2026-06-26 08:53,CUST-1005,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-01021,2026-06-26 21:38,CUST-1475,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01022,2026-06-27 10:23,CUST-1464,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01023,2026-06-27 23:08,CUST-1196,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-01024,2026-06-28 11:53,CUST-1350,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Cancelled
+ORD-01025,2026-06-29 00:38,CUST-1132,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-01026,2026-06-29 13:23,CUST-1357,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Apple Pay,Delivered
+ORD-01027,2026-06-30 02:08,CUST-1258,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Delivered
+ORD-01028,2026-06-30 14:53,CUST-1436,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01029,2026-07-01 03:38,CUST-1022,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-01030,2026-07-01 16:23,CUST-1484,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-01031,2026-07-02 05:08,CUST-1052,NoiseCancel Headphones,Electronics,SoundWave Inc.,149.99,2,PayPal,Delivered
+ORD-01032,2026-07-02 17:53,CUST-1164,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-01033,2026-07-03 06:38,CUST-1201,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-01034,2026-07-03 19:23,CUST-1457,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-01035,2026-07-04 08:08,CUST-1082,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-01036,2026-07-04 20:53,CUST-1144,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Shipped
+ORD-01037,2026-07-05 09:38,CUST-1084,EcoPhone 15,Electronics,TechCorp,799.99,2,PayPal,Delivered
+ORD-01038,2026-07-05 22:23,CUST-1077,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-01039,2026-07-06 11:08,CUST-1456,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-01040,2026-07-06 23:53,CUST-1365,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-01041,2026-07-07 12:39,,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-01042,2026-07-08 01:24,CUST-1050,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01043,2026-07-08 14:09,CUST-1172,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01044,2026-07-09 02:54,CUST-1204,EcoPhone 15,Electronics,TechCorp,799.99,3,PayPal,Delivered
+ORD-01045,2026-07-09 15:39,CUST-1259,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-01046,2026-07-10 04:24,CUST-1445,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,3,Apple Pay,Delivered
+ORD-01047,2026-07-10 17:09,CUST-1448,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Shipped
+ORD-01048,2026-07-11 05:54,CUST-1368,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-01049,2026-07-11 18:39,CUST-1487,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-01050,2026-07-12 07:24,CUST-1287,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-01051,2026-07-12 20:09,CUST-1033,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-01052,2026-07-13 08:54,CUST-1347,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Apple Pay,Delivered
+ORD-01053,2026-07-13 21:39,CUST-1094,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,3,Apple Pay,Delivered
+ORD-01054,2026-07-14 10:24,CUST-1071,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Credit Card,Shipped
+ORD-01055,2026-07-14 23:09,CUST-1038,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Shipped
+ORD-01056,2026-07-15 11:54,CUST-1153,Ergonomic Office Chair,,ComfortSeat,220.0,3,PayPal,Delivered
+ORD-01057,2026-07-16 00:39,CUST-1249,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01058,2026-07-16 13:24,CUST-1161,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Shipped
+ORD-01059,2026-07-17 02:09,CUST-1437,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-01060,2026-07-17 14:54,CUST-1117,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Shipped
+ORD-01061,2026-07-18 03:39,CUST-1258,SmartWatch Series X,Electronics,TechCorp,249.99,3,Apple Pay,Delivered
+ORD-01062,2026-07-18 16:24,CUST-1378,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-01063,2026-07-19 05:09,CUST-1305,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-01064,2026-07-19 17:54,CUST-1267,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01065,2026-07-20 06:39,CUST-1448,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-01066,2026-07-20 19:24,CUST-1053,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-01067,2026-07-21 08:10,CUST-1235,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01068,2026-07-21 20:55,CUST-1388,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-01069,2026-07-22 09:40,CUST-1477,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-01070,2026-07-22 22:25,CUST-1221,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-01071,2026-07-23 11:10,CUST-1250,Hydrating Face Serum,Beauty,GlowBio,24.5,-1,PayPal,Delivered
+ORD-01072,2026-07-23 23:55,CUST-1312,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01073,2026-07-24 12:40,CUST-1400,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01074,2026-07-25 01:25,CUST-1111,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Cancelled
+ORD-01075,2026-07-25 14:10,CUST-1254,Hydrating Face Serum,Beauty,GlowBio,24.5,4,Apple Pay,Shipped
+ORD-01076,2026-07-26 02:55,CUST-1302,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-01077,2026-07-26 15:40,CUST-1406,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01078,2026-07-27 04:25,CUST-1206,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01079,2026-07-27 17:10,CUST-1228,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,PayPal,Returned
+ORD-01080,2026-07-28 05:55,CUST-1340,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-01081,2026-07-28 18:40,,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-01082,2026-07-29 07:25,CUST-1065,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01083,2026-07-29 20:10,CUST-1074,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,PayPal,Delivered
+ORD-01084,2026-07-30 08:55,CUST-1434,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-01085,2026-07-30 21:40,CUST-1102,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-01086,2026-07-31 10:25,CUST-1421,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Shipped
+ORD-01087,2026-07-31 23:10,CUST-1191,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Cancelled
+ORD-01088,2026-08-01 11:55,CUST-1251,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-01089,2026-08-02 00:40,CUST-1225,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Credit Card,Delivered
+ORD-01090,2026-08-02 13:25,CUST-1293,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-01091,2026-08-03 02:10,CUST-1305,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro Inc.,99.99,2,PayPal,Delivered
+ORD-01092,2026-08-03 14:55,CUST-1097,Hydrating Face Serum,Beauty,GlowBio,24.5,2,PayPal,Delivered
+ORD-01093,2026-08-04 03:40,CUST-1337,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-01094,2026-08-04 16:26,CUST-1285,EcoPhone 15,Electronics,TechCorp,799.99,2,Apple Pay,Delivered
+ORD-01095,2026-08-05 05:11,CUST-1334,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-01096,2026-08-05 17:56,CUST-1346,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,PayPal,Delivered
+ORD-01097,2026-08-06 06:41,CUST-1434,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-01098,2026-08-06 19:26,CUST-1446,SmartWatch Series X,Electronics,TechCorp,249.99,3,PayPal,Delivered
+ORD-01099,2026-08-07 08:11,CUST-1481,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Returned
+ORD-01100,2026-08-07 20:56,CUST-1307,EcoPhone 15,Electronics,TechCorp,799.99,2,Credit Card,Cancelled
+ORD-01101,2026-08-08 09:41,CUST-1248,EcoPhone 15,Electronics,TechCorp,799.99,3,Apple Pay,Cancelled
+ORD-01102,2026-08-08 22:26,CUST-1165,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-01103,2026-08-09 11:11,CUST-1480,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-01104,2026-08-09 23:56,CUST-1471,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01105,2026-08-10 12:41,CUST-1334,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Shipped
+ORD-01106,2026-08-11 01:26,CUST-1029,SmartWatch Series X,,TechCorp,249.99,1,Credit Card,Delivered
+ORD-01107,2026-08-11 14:11,CUST-1246,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-01108,2026-08-12 02:56,CUST-1105,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-01109,2026-08-12 15:41,CUST-1050,NoiseCancel Headphones,Electronics,SoundWave,149.99,2,Apple Pay,Delivered
+ORD-01110,2026-08-13 04:26,CUST-1080,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Credit Card,Delivered
+ORD-01111,2026-08-13 17:11,CUST-1132,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-01112,2026-08-14 05:56,CUST-1284,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-01113,2026-08-14 18:41,CUST-1387,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-01114,2026-08-15 07:26,CUST-1137,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Shipped
+ORD-01115,2026-08-15 20:11,CUST-1183,NoiseCancel Headphones,Electronics,SoundWave,149.99,3,Apple Pay,Delivered
+ORD-01116,2026-08-16 08:56,CUST-1400,Running Shoes V2,Apparel,FitGear,1200.0,2,Credit Card,Delivered
+ORD-01117,2026-08-16 21:41,CUST-1329,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-01118,2026-08-17 10:26,CUST-1272,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,Credit Card,Shipped
+ORD-01119,2026-08-17 23:11,CUST-1339,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-01120,2026-08-18 11:56,CUST-1471,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Apple Pay,Cancelled
+ORD-01121,2026-08-19 00:42,,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Delivered
+ORD-01122,2026-08-19 13:27,CUST-1033,Classic Denim Jacket,Apparel,ThreadsCo,89.5,3,Credit Card,Returned
+ORD-01123,2026-08-20 02:12,CUST-1261,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Shipped
+ORD-01124,2026-08-20 14:57,CUST-1052,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-01125,2026-08-21 03:42,CUST-1449,Running Shoes V2,Apparel,FitGear,120.0,2,Credit Card,Delivered
+ORD-01126,2026-08-21 16:27,CUST-1204,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-01127,2026-08-22 05:12,CUST-1125,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-01128,2026-08-22 17:57,CUST-1234,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,Apple Pay,Delivered
+ORD-01129,2026-08-23 06:42,CUST-1042,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-01130,2026-08-23 19:27,CUST-1239,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Apple Pay,Delivered
+ORD-01131,2026-08-24 08:12,CUST-1458,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-01132,2026-08-24 20:57,CUST-1370,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01133,2026-08-25 09:42,CUST-1110,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Delivered
+ORD-01134,2026-08-25 22:27,CUST-1248,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-01135,2026-08-26 11:12,CUST-1150,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-01136,2026-08-26 23:57,CUST-1182,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01137,2026-08-27 12:42,CUST-1335,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-01138,2026-08-28 01:27,CUST-1094,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Shipped
+ORD-01139,2026-08-28 14:12,CUST-1458,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-01140,2026-08-29 02:57,CUST-1373,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,PayPal,Delivered
+ORD-01141,2026-08-29 15:42,CUST-1399,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-01142,2026-08-30 04:27,CUST-1007,SmartWatch Series X,Electronics,TechCorp,249.99,2,PayPal,Delivered
+ORD-01143,2026-08-30 17:12,CUST-1387,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Shipped
+ORD-01144,2026-08-31 05:57,CUST-1359,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Shipped
+ORD-01145,2026-08-31 18:42,CUST-1387,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,PayPal,Delivered
+ORD-01146,2026-09-01 07:27,CUST-1183,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-01147,2026-09-01 20:13,CUST-1280,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-01148,2026-09-02 08:58,CUST-1194,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Delivered
+ORD-01149,2026-09-02 21:43,CUST-1351,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Cancelled
+ORD-01150,2026-09-03 10:28,CUST-1194,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-01151,2026-09-03 23:13,CUST-1154,Hydrating Face Serum,Beauty,GlowBio Inc.,24.5,1,Credit Card,Delivered
+ORD-01152,2026-09-04 11:58,CUST-1092,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Delivered
+ORD-01153,2026-09-05 00:43,CUST-1159,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-01154,2026-09-05 13:28,CUST-1433,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-01155,2026-09-06 02:13,CUST-1060,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-01156,2026-09-06 14:58,CUST-1121,Ergonomic Office Chair,,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-01157,2026-09-07 03:43,CUST-1050,EcoPhone 15,Electronics,TechCorp,799.99,2,Credit Card,Delivered
+ORD-01158,2026-09-07 16:28,CUST-1402,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,PayPal,Delivered
+ORD-01159,2026-09-08 05:13,CUST-1276,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,3,PayPal,Shipped
+ORD-01160,2026-09-08 17:58,CUST-1004,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-01161,2026-09-09 06:43,,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01162,2026-09-09 19:28,CUST-1091,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01163,2026-09-10 08:13,CUST-1169,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01164,2026-09-10 20:58,CUST-1316,Running Shoes V2,Apparel,FitGear,120.0,1,Credit Card,Delivered
+ORD-01165,2026-09-11 09:43,CUST-1021,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,4,PayPal,Delivered
+ORD-01166,2026-09-11 22:28,CUST-1404,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-01167,2026-09-12 11:13,CUST-1325,EcoPhone 15,Electronics,TechCorp,799.99,1,Apple Pay,Shipped
+ORD-01168,2026-09-12 23:58,CUST-1000,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-01169,2026-09-13 12:43,CUST-1132,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-01170,2026-09-14 01:28,CUST-1232,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Apple Pay,Delivered
+ORD-01171,2026-09-14 14:13,CUST-1011,Running Shoes V2,Apparel,FitGear,120.0,2,Apple Pay,Delivered
+ORD-01172,2026-09-15 02:58,CUST-1345,Running Shoes V2,Apparel,FitGear,120.0,1,Apple Pay,Delivered
+ORD-01173,2026-09-15 15:43,CUST-1045,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,PayPal,Delivered
+ORD-01174,2026-09-16 04:29,CUST-1033,Running Shoes V2,Apparel,FitGear,120.0,1,PayPal,Delivered
+ORD-01175,2026-09-16 17:14,CUST-1432,Hydrating Face Serum,Beauty,GlowBio,24.5,2,Apple Pay,Delivered
+ORD-01176,2026-09-17 05:59,CUST-1077,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,2,Apple Pay,Delivered
+ORD-01177,2026-09-17 18:44,CUST-1217,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Apple Pay,Delivered
+ORD-01178,2026-09-18 07:29,CUST-1300,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Shipped
+ORD-01179,2026-09-18 20:14,CUST-1410,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,4,PayPal,Delivered
+ORD-01180,2026-09-19 08:59,CUST-1072,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Credit Card,Delivered
+ORD-01181,2026-09-19 21:44,CUST-1281,Hydrating Face Serum,Beauty,GlowBio,24.5,3,PayPal,Delivered
+ORD-01182,2026-09-20 10:29,CUST-1248,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-01183,2026-09-20 23:14,CUST-1046,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-01184,2026-09-21 11:59,CUST-1120,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,2,Apple Pay,Delivered
+ORD-01185,2026-09-22 00:44,CUST-1213,EcoPhone 15,Electronics,TechCorp,799.99,3,PayPal,Delivered
+ORD-01186,2026-09-22 13:29,CUST-1238,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-01187,2026-09-23 02:14,CUST-1055,Classic Denim Jacket,Apparel,ThreadsCo,89.5,2,Credit Card,Delivered
+ORD-01188,2026-09-23 14:59,CUST-1349,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01189,2026-09-24 03:44,CUST-1106,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Apple Pay,Shipped
+ORD-01190,2026-09-24 16:29,CUST-1318,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,Apple Pay,Delivered
+ORD-01191,2026-09-25 05:14,CUST-1047,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-01192,2026-09-25 17:59,CUST-1060,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,3,PayPal,Delivered
+ORD-01193,2026-09-26 06:44,CUST-1336,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,1,Credit Card,Delivered
+ORD-01194,2026-09-26 19:29,CUST-1025,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,Apple Pay,Delivered
+ORD-01195,2026-09-27 08:14,CUST-1291,Hydrating Face Serum,Beauty,GlowBio,24.5,1,PayPal,Delivered
+ORD-01196,2026-09-27 20:59,CUST-1256,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-01197,2026-09-28 09:44,CUST-1007,SmartWatch Series X,Electronics,TechCorp,249.99,1,PayPal,Delivered
+ORD-01198,2026-09-28 22:29,CUST-1112,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,2,Credit Card,Delivered
+ORD-01199,2026-09-29 11:14,CUST-1354,Sonic Electric Toothbrush,Beauty,DentalLux,79.99,1,PayPal,Delivered
+ORD-01200,2026-09-30 00:00,CUST-1252,EcoPhone 15,Electronics,TechCorp,799.99,3,Credit Card,Shipped
+ORD-00782,2026-02-19 22:14,CUST-1176,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00142,2025-03-16 21:50,CUST-1080,Classic Denim Jacket,Apparel,ThreadsCo,89.5,1,Credit Card,Delivered
+ORD-00633,2025-12-02 18:23,CUST-1153,SmartWatch Series X,Electronics,TechCorp,249.99,1,Apple Pay,Delivered
+ORD-00115,2025-03-02 13:34,CUST-1236,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,Credit Card,Delivered
+ORD-00953,2026-05-21 18:35,CUST-1163,Hydrating Face Serum,Beauty,GlowBio,24.5,1,Credit Card,Delivered
+ORD-00340,2025-06-30 02:27,CUST-1337,SmartWatch Series X,Electronics,TechCorp,249.99,2,Apple Pay,Delivered
+ORD-00225,2025-04-30 00:08,CUST-1285,EcoPhone 15,Electronics,TechCorp,799.99,1,PayPal,Delivered
+ORD-00758,2026-02-07 04:13,CUST-1151,Digital Air Fryer 5Q,Home & Kitchen,KitchenPro,99.99,2,PayPal,Shipped
+ORD-00866,2026-04-05 13:17,CUST-1414,Ergonomic Office Chair,Home & Kitchen,ComfortSeat,220.0,1,PayPal,Delivered
+ORD-00243,2025-05-09 13:39,CUST-1358,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00842,2026-03-23 19:16,CUST-1392,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
+ORD-00479,2025-09-11 22:47,CUST-1468,NoiseCancel Headphones,Electronics,SoundWave,149.99,1,PayPal,Delivered
+ORD-00707,2026-01-11 01:56,CUST-1329,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Credit Card,Delivered
+ORD-01076,2026-07-26 02:55,CUST-1302,Organic Cotton Hoodie,Apparel,ThreadsCo,59.99,1,Apple Pay,Delivered
+ORD-00234,2025-05-04 18:53,CUST-1384,EcoPhone 15,Electronics,TechCorp,799.99,1,Credit Card,Delivered
